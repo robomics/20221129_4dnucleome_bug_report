@@ -32,13 +32,13 @@ file [4DNFI9GMP2J8.mcool](https://data.4dnucleome.org/files-processed/4DNFI9GMP2
 
 TSVs with duplicate pixels for all resolutions
 from [4DNFI9GMP2J8](https://data.4dnucleome.org/files-processed/4DNFI9GMP2J8/) are
-available [here](https://github.com/robomics/20220923_4dnucleome_bug_report/files/9635539/4DNFI9GMP2J8.tar.gz).
+available [here](https://github.com/robomics/20221129_4dnucleome_bug_report/files/9635539/4DNFI9GMP2J8.tar.gz).
 
 Datasets [4DNFIFJH2524](https://data.4dnucleome.org/files-processed/4DNFIFJH2524/)
 and [4DNFINNZDDXV](https://data.4dnucleome.org/files-processed/4DNFINNZDDXV/) are affected by the same issue (reports
 for these datasets are available
-here: [link1](https://github.com/robomics/20220923_4dnucleome_bug_report/files/9635594/4DNFIFJH2524.tar.gz)
-, [link2](https://github.com/robomics/20220923_4dnucleome_bug_report/files/9635593/4DNFINNZDDXV.tar.gz))
+here: [link1](https://github.com/robomics/20221129_4dnucleome_bug_report/files/9635594/4DNFIFJH2524.tar.gz)
+, [link2](https://github.com/robomics/20221129_4dnucleome_bug_report/files/9635593/4DNFINNZDDXV.tar.gz))
 
 
 Script `find_dupl_pixels.sh` can be used also look for duplicate entries in trans regions.
