@@ -40,6 +40,11 @@ for these datasets are available
 here: [link1](https://github.com/robomics/20220923_4dnucleome_bug_report/files/9635594/4DNFIFJH2524.tar.gz)
 , [link2](https://github.com/robomics/20220923_4dnucleome_bug_report/files/9635593/4DNFINNZDDXV.tar.gz))
 
+
+Script `find_dupl_pixels.sh` can be used also look for duplicate entries in trans regions.
+
+## Proposed solution
+
 Luckily, the base resolutions do not seem to have any duplicate values, suggesting that the issue is caused
 by `cooler zoomify` (Cooler v0.8.3 according to the .mcool metadata).
 
